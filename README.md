@@ -1,2 +1,2 @@
 # rsschool-cv
-https://nnjn-uigithub.io/rsschool-cv/cv
+https://nnjn-ui.github.io/rsschool-cv/cv
